@@ -1,0 +1,87 @@
+/* xlg 4k */ 
+@media (min-width: 3840px) {
+  
+}
+
+/* lg */ 
+@media (min-width: 1200px) and (max-width: 3839px) {
+  
+}
+
+/* md */
+@media (min-width: 992px) and (max-width: 1199px) {
+  
+}
+
+/* sm */
+@media (min-width: 768px) and (max-width: 991px) {
+  
+}
+
+/* xs */
+@media (max-width: 767px) {
+  header {
+    margin-top: 0px;
+  }
+  #open-source .row, #wearables .row, #our-company .row, #contact .row, #process .row, #process2 .row, #process3 .row, #idioms .row, #idioms2 .row, #idioms3 .row, #components .row, #components2 .row, #components3 .row, #canonical .row, #canonical2 .row, #canonical3 .row, #articles .row, #articles2 .row, #articles3 .row, #video .row, #video2 .row, #video3 .row, #product .row, #product2 .row, #product3 .row {
+    display: block;
+  }
+  .ft-first .footer-navbar-brand img {
+    margin: auto;
+  }
+  #process img {
+    border-radius: 40px;
+  }
+  #wearables a {
+    margin-bottom: 15px;
+  }
+  #banner1 {
+    height: 850px;
+  }
+  #banner1 .embed-responsive {
+    margin-bottom: 15px;
+  }
+  .banner-wrap {
+    max-width: 80%;
+    margin: auto;
+  }
+  .banner-wrap h4 {
+    margin-bottom: 15px;
+  }
+  #banner1 .btn-wrap {
+    margin-top: 15px;
+  }
+  .banner-wrap2 {
+    max-width: 80%;
+    margin: auto;
+  }
+  .banner-wrap2 h2 {
+    font-size: 2rem;
+    letter-spacing: 0.5px;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .banner-wrap2 h4 {
+    margin-bottom: 30px;
+  }
+  #banner2 {
+    height: 1100px;
+  }
+  #banner2 .btn-wrap2 {
+    margin-top: 0px;
+  }
+
+  #footer {
+    text-align: center;
+  }
+  #footer .ft-fourth .location,
+  #footer .ft-fourth .mail,
+  #footer .ft-fourth .phone {
+    display: block;
+  }
+}
+
+/* xs portrait */
+@media (max-width: 479px) {
+  
+} 
